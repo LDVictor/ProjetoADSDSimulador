@@ -14,7 +14,7 @@ public class FichaDeAtendimento extends Sim_entity {
 
         super(nome);
 
-        balcaoDeAtendimento = new Sim_port("Balcao de Atendimento");
+        balcaoDeAtendimento = new Sim_port("BalcaoDeAtendimento");
         add_port(balcaoDeAtendimento);
 
         delay = new Sim_negexp_obj("Delay", media);

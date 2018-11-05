@@ -5,7 +5,7 @@ import eduni.simjava.distributions.Sim_negexp_obj;
  * Created by faria on 31/10/2018.
  */
 public class AlaDeMedicacao extends Sim_entity {
-    private Sim_port entrada;
+    private Sim_port postoDeEnfermagem;
     private Sim_negexp_obj delay;
     private Sim_stat stat;
 
@@ -13,8 +13,8 @@ public class AlaDeMedicacao extends Sim_entity {
 
         super(nome);
 
-        entrada = new Sim_port("Entrada");
-        add_port(entrada);
+        postoDeEnfermagem = new Sim_port("PostoDeEnfermagem");
+        add_port(postoDeEnfermagem);
 
         delay = new Sim_negexp_obj("Delay", media);
         add_generator(delay);

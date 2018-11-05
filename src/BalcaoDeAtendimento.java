@@ -22,13 +22,14 @@ public class BalcaoDeAtendimento extends Sim_entity {
     super(nome);
 
     //Criando porta de entrada
-    fichaDeAtendimento = new Sim_port("Ficha de atendimento");
+    fichaDeAtendimento = new Sim_port("FichaDeAtendimento");
 
     //Cria demais portas
     triagem = new Sim_port("Triagem");
 
     //Adicionando portas para Evento
     add_port(fichaDeAtendimento);
+    add_port(triagem);
 
     //Gerando distribuilcao de probabilidade
     delay = new Sim_normal_obj("Delay", media, variancia);

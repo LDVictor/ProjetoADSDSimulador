@@ -18,10 +18,10 @@ public class Triagem extends Sim_entity {
         super(nome);
 
         //Criando porta de entrada
-        balcaoDeAtendimento = new Sim_port("Balcao de Atendimento");
+        balcaoDeAtendimento = new Sim_port("BalcaoDeAtendimento");
 
         //Cria demais portas
-        clinicoGeral = new Sim_port("Clinico Geral");
+        clinicoGeral = new Sim_port("ClinicoGeral");
         otorrino = new Sim_port("Otorrinolaringologista");
         cardio = new Sim_port("Cardiologista");
 

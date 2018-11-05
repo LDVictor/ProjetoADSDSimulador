@@ -1,4 +1,5 @@
 import eduni.simjava.Sim_entity;
+import eduni.simjava.Sim_system;
 
 
 public class Main {
@@ -15,11 +16,11 @@ public class Main {
 
         Triagem triagem = new Triagem("Triagem", 3, 1);
 
-        ClinicoGeral clinicoGeral = new ClinicoGeral("ClinicoGeral", 3, 2);
+        ClinicoGeral clinicoGeral = new ClinicoGeral("ClinicoGeral", 3, 1);
 
-        Otorrinolaringologista otorrinolaringologista = new Otorrinolaringologista("Otorrinolaringologista", 3, 2);
+        Otorrinolaringologista otorrinolaringologista = new Otorrinolaringologista("Otorrinolaringologista", 3, 1);
 
-        Cardiologista cardiologista = new Cardiologista("Cardiologista", 3, 2);
+        Cardiologista cardiologista = new Cardiologista("Cardiologista", 3, 1);
 
         PostoDeEnfermagem postoDeEnfermagem = new PostoDeEnfermagem("PostoDeEnfermagem", 10, 5);
 

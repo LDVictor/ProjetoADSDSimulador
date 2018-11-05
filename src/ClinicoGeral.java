@@ -22,13 +22,14 @@ public class ClinicoGeral extends Sim_entity {
     super(nome);
 
     //Criando porta de entrada
-    triagem = new Sim_port("Posto de Enfermagem");
+    triagem = new Sim_port("Triagem");
 
     //Cria demais portas
-    postoDeEnfermagem = new Sim_port("Triagem");
+    postoDeEnfermagem = new Sim_port("PostoDeEnfermagem");
 
     //Adicionando portas para Evento
     add_port(postoDeEnfermagem);
+    add_port(triagem);
 
     //Gerando distribuilcao de probabilidade
     delay = new Sim_normal_obj("Delay", media, variancia);
