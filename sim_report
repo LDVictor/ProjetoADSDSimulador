@@ -1,0 +1,272 @@
+############################################################
+#                                                          #
+#                    SIMULATION REPORT                     #
+#                                                          #
+############################################################
+
+Version: SimJava 2.0
+
+Simulation date:         5 de Novembro de 2018
+Simulation start time:   20h28min50s BRT
+Simulation end time:     20h28min50s BRT
+
+############################################################
+#            Overall simulation run information            #
+############################################################
+
+Total simulated time:    988.4450204285788
+Total transient time:    0.0
+Total steady state time: 988.4450204285788
+Transient condition:     None
+Termination condition:   None
+Output analysis method:  None
+
+############################################################
+#               Simulation run measurements                #
+############################################################
+
+------------------- BalcaoDeAtendimento --------------------
+
+- Arrival rate
+
+Sample mean:          0.10116900579522481
+Event count:          100
+
+- Queue length
+
+Sample mean:          0.8078446120658492
+Sample variance:      2.9521397439844765
+Sample std deviation: 1.7181791943753937
+Maximum:              9.0
+Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          7.9850998407654625
+Sample variance:      42.42575622066187
+Sample std deviation: 6.513505678255133
+Maximum:              25.97562061254456
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.2926299846863582
+
+- Residence time
+
+Sample mean:          10.877586352678676
+Sample variance:      44.13697319579462
+Sample std deviation: 6.643566301000888
+Maximum:              29.232008214435638
+Minimum:              1.9519596363323686
+
+------------------------- Triagem --------------------------
+
+- Arrival rate
+
+Sample mean:          0.10116900579522481
+Event count:          100
+
+- Queue length
+
+Sample mean:          0.31519696542047326
+Sample variance:      0.4255901824532139
+Sample std deviation: 0.652372732763421
+Maximum:              3.0
+Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          3.1155487092406577
+Sample variance:      4.309149190898274
+Sample std deviation: 2.075849028927266
+Maximum:              9.03631012485937
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.3012329072677316
+
+- Residence time
+
+Sample mean:          6.093070381020791
+Sample variance:      4.322410920657911
+Sample std deviation: 2.07904086555746
+Maximum:              10.969954871220125
+Minimum:              1.7248246047433184
+
+----------------------- ClinicoGeral -----------------------
+
+- Arrival rate
+
+Sample mean:          0.05968971341918264
+Event count:          59
+
+- Queue length
+
+Sample mean:          0.05022892312350846
+Sample variance:      0.07690227997822575
+Sample std deviation: 0.27731260335265284
+Maximum:              3.0
+Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          0.8415004905579972
+Sample variance:      3.15852095078214
+Sample std deviation: 1.7772228196774145
+Maximum:              6.605730084571434
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.1962319043363752
+
+- Residence time
+
+Sample mean:          4.1290335192106635
+Sample variance:      4.356850380021027
+Sample std deviation: 2.0873069683257004
+Maximum:              9.66638069036594
+Minimum:              0.6792796127921292
+
+------------------ Otorrinolaringologista ------------------
+
+- Arrival rate
+
+Sample mean:          0.025292251448806202
+Event count:          25
+
+- Queue length
+
+Sample mean:          0.004297126767161418
+Sample variance:      0.0042786614687083625
+Sample std deviation: 0.0654114781113251
+Maximum:              1.0
+Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          0.16989894220604243
+Sample variance:      0.2772582491685162
+Sample std deviation: 0.5265531779113257
+Maximum:              2.3189630675037733
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.07578611145333636
+
+- Residence time
+
+Sample mean:          3.1663151215538665
+Sample variance:      1.512511337399354
+Sample std deviation: 1.2298419969245455
+Maximum:              6.003849735892516
+Minimum:              0.6582636916137119
+
+---------------------- Cardiologista -----------------------
+
+- Arrival rate
+
+Sample mean:          0.016187040927235972
+Event count:          16
+
+- Queue length
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              1.0
+Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.04181793596113103
+
+- Residence time
+
+Sample mean:          2.5834206603363223
+Sample variance:      0.5925556615654624
+Sample std deviation: 0.769776371139997
+Maximum:              3.9467045637439924
+Minimum:              1.5200460462888827
+
+-------------------- PostoDeEnfermagem ---------------------
+
+- Arrival rate
+
+Sample mean:          0.10116900579522481
+Event count:          100
+
+- Queue length
+
+Sample mean:          34.07684481558632
+Sample variance:      417.92443147873746
+Sample std deviation: 20.443200128129096
+Maximum:              69.0
+Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          336.83087569883736
+Sample variance:      37790.74117612229
+Sample std deviation: 194.39840836828446
+Maximum:              660.5721795894103
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.9903347024600725
+
+- Residence time
+
+Sample mean:          346.6197897508801
+Sample variance:      37696.24904056972
+Sample std deviation: 194.15521893724545
+Maximum:              671.9846286417461
+Minimum:              11.714806475193773
+
+---------------------- AlaDeMedicacao ----------------------
+
+- Arrival rate
+
+Sample mean:          0.055642953187373646
+Event count:          55
+
+- Queue length
+
+Sample mean:          0.01557541970329347
+Sample variance:      0.015332826004359729
+Sample std deviation: 0.12382578893089972
+Maximum:              1.0
+Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          0.27991720085101096
+Sample variance:      1.0463650698807259
+Sample std deviation: 1.0229198746141976
+Maximum:              4.953180846770579
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.2603350821398483
+
+- Residence time
+
+Sample mean:          4.958588393287339
+Sample variance:      16.27014240898245
+Sample std deviation: 4.033626458781534
+Maximum:              14.777791018510072
+Minimum:              0.04252716268464951
+

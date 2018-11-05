@@ -1,0 +1,607 @@
+u: FichaDeAtendimento at 0.0: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 2.4101707757159714: Pessoa vai para a triagem
+u: FichaDeAtendimento at 4.277481951676862: Nova pessoa pegou ficha no sistema
+
+u: FichaDeAtendimento at 4.8049537781794065: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 6.099686370614297: Pessoa vai para o cardio
+u: BalcaoDeAtendimento at 6.645305291062208: Pessoa vai para a triagem
+u: FichaDeAtendimento at 8.552674551385268: Nova pessoa pegou ficha no sistema
+
+u: Cardiologista at 9.015114012411162: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 9.874817120199161: Pessoa vai para a triagem
+u: Triagem at 10.343054176249016: Pessoa vai para o clinico geral
+u: BalcaoDeAtendimento at 12.600089230904848: Pessoa vai para a triagem
+u: Triagem at 13.084195024132256: Pessoa vai para o cardio
+u: ClinicoGeral at 13.188081359307187: Pessoa vai para o posto de enfermagem
+u: FichaDeAtendimento at 15.448762971738416: Nova pessoa pegou ficha no sistema
+
+u: Cardiologista at 15.545274117319105: Pessoa vai para o posto de enfermagem
+u: Triagem at 15.901278798651129: Pessoa vai para o clinico geral
+u: BalcaoDeAtendimento at 17.525715513550878: Pessoa vai para a triagem
+u: ClinicoGeral at 19.30234840293078: Pessoa vai para o posto de enfermagem
+u: Triagem at 19.347027847514354: Pessoa vai para o clinico geral
+u: FichaDeAtendimento at 19.789838626864118: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 21.741798263196486: Pessoa vai para a triagem
+u: ClinicoGeral at 22.44994960053433: Pessoa vai para o posto de enfermagem
+u: FichaDeAtendimento at 23.30349713102175: Nova pessoa pegou ficha no sistema
+
+u: FichaDeAtendimento at 24.94995814288631: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 25.5135396309326: Pessoa vai para a triagem
+u: Triagem at 26.386481925322013: Pessoa vai para o clinico geral
+u: BalcaoDeAtendimento at 27.242386304389484: Pessoa vai para a triagem
+u: FichaDeAtendimento at 27.65191951309576: Nova pessoa pegou ficha no sistema
+
+u: FichaDeAtendimento at 27.77243764533447: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 28.897701061317175: Pessoa vai para o otorrino
+u: ClinicoGeral at 28.95103258902711: Pessoa vai para o posto de enfermagem
+u: Triagem at 28.967210909132802: Pessoa vai para o clinico geral
+u: FichaDeAtendimento at 29.15294418774061: Nova pessoa pegou ficha no sistema
+
+u: AlaDeMedicacao at 29.74501114825064: Pessoa vai embora do hospital
+u: BalcaoDeAtendimento at 30.48193108899278: Pessoa vai para a triagem
+u: PostoDeEnfermagem at 30.63069189435319: Pessoa vai embora do hospital
+u: Otorrinolaringologista at 32.02774403332597: Pessoa vai para o posto de enfermagem
+u: FichaDeAtendimento at 32.25817907107675: Nova pessoa pegou ficha no sistema
+
+u: ClinicoGeral at 32.412568694732684: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 32.89564423399733: Pessoa vai para a triagem
+u: Triagem at 34.74654914027356: Pessoa vai para o clinico geral
+u: BalcaoDeAtendimento at 36.164811714470254: Pessoa vai para a triagem
+u: FichaDeAtendimento at 36.38304784711957: Nova pessoa pegou ficha no sistema
+
+u: ClinicoGeral at 37.18157803610083: Pessoa vai para o posto de enfermagem
+u: Triagem at 38.128394001588376: Pessoa vai para o clinico geral
+u: FichaDeAtendimento at 38.98021235324857: Nova pessoa pegou ficha no sistema
+
+u: FichaDeAtendimento at 39.24662594903199: Nova pessoa pegou ficha no sistema
+
+u: FichaDeAtendimento at 39.29442326666338: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 39.465229967496924: Pessoa vai para a triagem
+u: PostoDeEnfermagem at 39.53739062305377: Pessoa vai embora do hospital
+u: FichaDeAtendimento at 39.80324581325788: Nova pessoa pegou ficha no sistema
+
+u: FichaDeAtendimento at 40.02073506114874: Nova pessoa pegou ficha no sistema
+
+u: ClinicoGeral at 41.46130050685506: Pessoa vai para o posto de enfermagem
+u: Triagem at 42.26495344228948: Pessoa vai para o otorrino
+u: BalcaoDeAtendimento at 42.87985752407661: Pessoa vai para a triagem
+u: Otorrinolaringologista at 43.727602500334804: Pessoa vai para o posto de enfermagem
+u: FichaDeAtendimento at 43.969619781171595: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 44.473779814869765: Pessoa vai para a triagem
+u: Triagem at 45.2802865217983: Pessoa vai para o clinico geral
+u: FichaDeAtendimento at 45.86320318066138: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 47.87398624354673: Pessoa vai para a triagem
+u: FichaDeAtendimento at 47.89323334334821: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 48.73731871535298: Pessoa vai para o clinico geral
+u: ClinicoGeral at 48.79574474125599: Pessoa vai para o posto de enfermagem
+u: AlaDeMedicacao at 49.78311375571635: Pessoa vai embora do hospital
+u: BalcaoDeAtendimento at 51.19547838728136: Pessoa vai para a triagem
+u: Triagem at 52.423417348312285: Pessoa vai para o cardio
+u: ClinicoGeral at 53.28987001884448: Pessoa vai para o posto de enfermagem
+u: FichaDeAtendimento at 53.93681424462192: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 54.43918197604999: Pessoa vai para a triagem
+u: Cardiologista at 54.94446623183946: Pessoa vai para o posto de enfermagem
+u: Triagem at 56.02738872019335: Pessoa vai para o cardio
+u: FichaDeAtendimento at 57.83633713791621: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 57.89292678786964: Pessoa vai para a triagem
+u: Cardiologista at 57.98294771881318: Pessoa vai para o posto de enfermagem
+u: Triagem at 59.25300620178069: Pessoa vai para o clinico geral
+u: ClinicoGeral at 60.48892318853163: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 60.8726543313319: Pessoa vai para a triagem
+u: Triagem at 62.48103381680539: Pessoa vai para o clinico geral
+u: FichaDeAtendimento at 64.70806682576229: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 65.08427988212838: Pessoa vai para a triagem
+u: Triagem at 65.36915136005: Pessoa vai para o clinico geral
+u: AlaDeMedicacao at 65.84958984482716: Pessoa vai embora do hospital
+u: ClinicoGeral at 65.89190318488555: Pessoa vai para o posto de enfermagem
+u: FichaDeAtendimento at 66.99418998466395: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 67.23214208223207: Pessoa vai para a triagem
+u: Triagem at 67.4913945629137: Pessoa vai para o cardio
+u: PostoDeEnfermagem at 68.13797199942023: Pessoa vai embora do hospital
+u: ClinicoGeral at 69.18164393091078: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 69.30994114402733: Pessoa vai para a triagem
+u: Triagem at 69.5783077510034: Pessoa vai para o otorrino
+u: BalcaoDeAtendimento at 70.18182828561812: Pessoa vai para a triagem
+u: Cardiologista at 70.26783284404925: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 72.45594579678178: Pessoa vai para a triagem
+u: Otorrinolaringologista at 72.94364221844216: Pessoa vai para o posto de enfermagem
+u: FichaDeAtendimento at 73.14413704276089: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 73.82466484777173: Pessoa vai para o otorrino
+u: BalcaoDeAtendimento at 76.25091492482971: Pessoa vai para a triagem
+u: Triagem at 76.43968451638838: Pessoa vai para o clinico geral
+u: FichaDeAtendimento at 76.46301998131815: Nova pessoa pegou ficha no sistema
+
+u: Otorrinolaringologista at 77.09910784249162: Pessoa vai para o posto de enfermagem
+u: Triagem at 79.37207427409571: Pessoa vai para o otorrino
+u: BalcaoDeAtendimento at 79.48449086059466: Pessoa vai para a triagem
+u: AlaDeMedicacao at 80.08386702386473: Pessoa vai embora do hospital
+u: ClinicoGeral at 80.14262280740053: Pessoa vai para o posto de enfermagem
+u: FichaDeAtendimento at 80.45430886151571: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 81.91820169245804: Pessoa vai para o clinico geral
+u: FichaDeAtendimento at 82.06393879558046: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 82.71132257779881: Pessoa vai para a triagem
+u: Otorrinolaringologista at 83.21989103880668: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 85.49198556173046: Pessoa vai para a triagem
+u: Triagem at 85.74378186245005: Pessoa vai para o clinico geral
+u: FichaDeAtendimento at 86.39108404845916: Nova pessoa pegou ficha no sistema
+
+u: ClinicoGeral at 86.42178340010743: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 87.49329947399848: Pessoa vai para a triagem
+u: Triagem at 87.87366159389083: Pessoa vai para o clinico geral
+u: ClinicoGeral at 87.94059632433422: Pessoa vai para o posto de enfermagem
+u: FichaDeAtendimento at 89.69638401124644: Nova pessoa pegou ficha no sistema
+
+u: ClinicoGeral at 89.85974926400795: Pessoa vai para o posto de enfermagem
+u: Triagem at 90.44138458263268: Pessoa vai para o otorrino
+u: BalcaoDeAtendimento at 91.40748571621249: Pessoa vai para a triagem
+u: Triagem at 91.83241048318425: Pessoa vai para o clinico geral
+u: FichaDeAtendimento at 92.25609787821723: Nova pessoa pegou ficha no sistema
+
+u: Otorrinolaringologista at 93.76518785902515: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 94.13568204504726: Pessoa vai para a triagem
+u: ClinicoGeral at 94.27519275864509: Pessoa vai para o posto de enfermagem
+u: FichaDeAtendimento at 94.56021010960937: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 94.72602338849114: Pessoa vai para o cardio
+u: BalcaoDeAtendimento at 96.79266367931044: Pessoa vai para a triagem
+u: Triagem at 97.81845885385086: Pessoa vai para o clinico geral
+u: Cardiologista at 97.96237734711065: Pessoa vai para o posto de enfermagem
+u: FichaDeAtendimento at 98.60263391622865: Nova pessoa pegou ficha no sistema
+
+u: FichaDeAtendimento at 99.5944765665943: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 99.62649795798836: Pessoa vai para a triagem
+u: ClinicoGeral at 99.7726568008084: Pessoa vai para o posto de enfermagem
+u: Triagem at 101.10755347689164: Pessoa vai para o otorrino
+u: PostoDeEnfermagem at 103.17068724595718: Pessoa vai embora do hospital
+u: FichaDeAtendimento at 103.21734676381732: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 103.48894413140835: Pessoa vai para o clinico geral
+u: FichaDeAtendimento at 103.64512578728464: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 103.80759988823662: Pessoa vai para a triagem
+u: Otorrinolaringologista at 104.34665067199987: Pessoa vai para o posto de enfermagem
+u: AlaDeMedicacao at 105.60216251542376: Pessoa vai embora do hospital
+u: BalcaoDeAtendimento at 106.90148385193119: Pessoa vai para a triagem
+u: ClinicoGeral at 106.91120687095861: Pessoa vai para o posto de enfermagem
+u: Triagem at 107.32061385509613: Pessoa vai para o otorrino
+u: FichaDeAtendimento at 107.35450056644713: Nova pessoa pegou ficha no sistema
+
+u: FichaDeAtendimento at 108.42710478202858: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 108.50699945656073: Pessoa vai para a triagem
+u: FichaDeAtendimento at 109.72784189206921: Nova pessoa pegou ficha no sistema
+
+u: FichaDeAtendimento at 109.77493977435542: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 110.30566050292246: Pessoa vai para o clinico geral
+u: Otorrinolaringologista at 111.86870918500495: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 111.87836011863766: Pessoa vai para a triagem
+u: Triagem at 111.94275126390079: Pessoa vai para o clinico geral
+u: FichaDeAtendimento at 113.17777167184109: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 114.21289913680504: Pessoa vai para a triagem
+u: FichaDeAtendimento at 114.66644514261351: Nova pessoa pegou ficha no sistema
+
+u: ClinicoGeral at 114.91139558408719: Pessoa vai para o posto de enfermagem
+u: Triagem at 115.0289944858677: Pessoa vai para o cardio
+u: AlaDeMedicacao at 115.52467103479954: Pessoa vai embora do hospital
+u: BalcaoDeAtendimento at 115.65795890924349: Pessoa vai para a triagem
+u: FichaDeAtendimento at 116.40320323108936: Nova pessoa pegou ficha no sistema
+
+u: Cardiologista at 116.76382965424206: Pessoa vai para o posto de enfermagem
+u: FichaDeAtendimento at 117.18635253509035: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 117.62283006326425: Pessoa vai para a triagem
+u: Triagem at 117.961764677053: Pessoa vai para o cardio
+u: Triagem at 119.49544358784853: Pessoa vai para o clinico geral
+u: ClinicoGeral at 119.54574762784539: Pessoa vai para o posto de enfermagem
+u: Cardiologista at 120.051807201588: Pessoa vai para o posto de enfermagem
+u: FichaDeAtendimento at 120.76633774325356: Nova pessoa pegou ficha no sistema
+
+u: PostoDeEnfermagem at 120.8197990502786: Pessoa vai embora do hospital
+u: BalcaoDeAtendimento at 121.56312699932494: Pessoa vai para a triagem
+u: Triagem at 121.89623358040078: Pessoa vai para o otorrino
+u: ClinicoGeral at 122.73694963305354: Pessoa vai para o posto de enfermagem
+u: Triagem at 124.0454085982204: Pessoa vai para o clinico geral
+u: Otorrinolaringologista at 124.85407809580126: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 125.17111663808427: Pessoa vai para a triagem
+u: Triagem at 127.58231202552918: Pessoa vai para o otorrino
+u: ClinicoGeral at 127.6338903876378: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 128.36421089151239: Pessoa vai para a triagem
+u: Triagem at 128.8820873418268: Pessoa vai para o clinico geral
+u: FichaDeAtendimento at 128.98515665852034: Nova pessoa pegou ficha no sistema
+
+u: FichaDeAtendimento at 129.85773838326995: Nova pessoa pegou ficha no sistema
+
+u: Otorrinolaringologista at 130.33286886690584: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 131.41839617023638: Pessoa vai para a triagem
+u: Triagem at 131.84749986652614: Pessoa vai para o cardio
+u: AlaDeMedicacao at 132.97223309176277: Pessoa vai embora do hospital
+u: BalcaoDeAtendimento at 134.08867877841126: Pessoa vai para a triagem
+u: ClinicoGeral at 134.57220043707972: Pessoa vai para o posto de enfermagem
+u: Cardiologista at 135.79420443027013: Pessoa vai para o posto de enfermagem
+u: Triagem at 136.32980598615566: Pessoa vai para o clinico geral
+u: FichaDeAtendimento at 137.70001246586824: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 138.37485482598592: Pessoa vai para a triagem
+u: FichaDeAtendimento at 138.5619918142982: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 139.4218754362057: Pessoa vai para o cardio
+u: ClinicoGeral at 140.23674548590196: Pessoa vai para o posto de enfermagem
+u: Cardiologista at 140.9419214824946: Pessoa vai para o posto de enfermagem
+u: FichaDeAtendimento at 141.0886952415597: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 142.5007583477931: Pessoa vai para a triagem
+u: BalcaoDeAtendimento at 144.75329892817825: Pessoa vai para a triagem
+u: PostoDeEnfermagem at 145.09212452320955: Pessoa vai embora do hospital
+u: Triagem at 145.4037485521708: Pessoa vai para o clinico geral
+u: BalcaoDeAtendimento at 147.80087181123807: Pessoa vai para a triagem
+u: Triagem at 148.3270733951676: Pessoa vai para o cardio
+u: ClinicoGeral at 148.46686797928507: Pessoa vai para o posto de enfermagem
+u: Cardiologista at 150.02486871816177: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 150.16269354313525: Pessoa vai para a triagem
+u: FichaDeAtendimento at 151.80648820390365: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 152.18203546402245: Pessoa vai para o clinico geral
+u: BalcaoDeAtendimento at 153.43253571467602: Pessoa vai para a triagem
+u: AlaDeMedicacao at 155.05298405801253: Pessoa vai embora do hospital
+u: BalcaoDeAtendimento at 155.25643585904976: Pessoa vai para a triagem
+u: Triagem at 155.4836223480911: Pessoa vai para o otorrino
+u: FichaDeAtendimento at 155.71789303178792: Nova pessoa pegou ficha no sistema
+
+u: FichaDeAtendimento at 155.76825383574558: Nova pessoa pegou ficha no sistema
+
+u: Otorrinolaringologista at 156.14188603970481: Pessoa vai para o posto de enfermagem
+u: FichaDeAtendimento at 156.85927329478614: Nova pessoa pegou ficha no sistema
+
+u: ClinicoGeral at 156.93168989823462: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 158.2371573428714: Pessoa vai para a triagem
+u: FichaDeAtendimento at 158.91553064811094: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 159.1000071945994: Pessoa vai para o otorrino
+u: FichaDeAtendimento at 160.4311970647772: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 161.73503348744984: Pessoa vai para o otorrino
+u: BalcaoDeAtendimento at 162.091619741512: Pessoa vai para a triagem
+u: Otorrinolaringologista at 162.18028397618835: Pessoa vai para o posto de enfermagem
+u: FichaDeAtendimento at 163.0193285329242: Nova pessoa pegou ficha no sistema
+
+u: FichaDeAtendimento at 163.36448985557783: Nova pessoa pegou ficha no sistema
+
+u: Otorrinolaringologista at 164.67804170317072: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 164.89916794832578: Pessoa vai para a triagem
+u: Triagem at 166.1412687881341: Pessoa vai para o clinico geral
+u: FichaDeAtendimento at 166.8156905960097: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 166.9834994267389: Pessoa vai para a triagem
+u: Triagem at 168.03533444006575: Pessoa vai para o clinico geral
+u: FichaDeAtendimento at 168.56064912135855: Nova pessoa pegou ficha no sistema
+
+u: ClinicoGeral at 168.8544043010979: Pessoa vai para o posto de enfermagem
+u: AlaDeMedicacao at 169.85615905019634: Pessoa vai embora do hospital
+u: FichaDeAtendimento at 169.97424864442613: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 170.58225829535428: Pessoa vai para a triagem
+u: Triagem at 171.09494239603362: Pessoa vai para o clinico geral
+u: FichaDeAtendimento at 172.03213410577087: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 172.9326153478889: Pessoa vai para o clinico geral
+u: FichaDeAtendimento at 174.54523062321238: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 174.83336556692828: Pessoa vai para a triagem
+u: FichaDeAtendimento at 174.85073859011666: Nova pessoa pegou ficha no sistema
+
+u: ClinicoGeral at 175.47473280424077: Pessoa vai para o posto de enfermagem
+u: Triagem at 175.85769328113602: Pessoa vai para o clinico geral
+u: FichaDeAtendimento at 176.08148779530882: Nova pessoa pegou ficha no sistema
+
+u: FichaDeAtendimento at 176.45702105523225: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 177.0348756271879: Pessoa vai para a triagem
+u: AlaDeMedicacao at 179.10388468046307: Pessoa vai embora do hospital
+u: Triagem at 179.20133802026888: Pessoa vai para o clinico geral
+u: ClinicoGeral at 179.217466103882: Pessoa vai para o posto de enfermagem
+u: FichaDeAtendimento at 179.4248158335567: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 180.21806598420696: Pessoa vai para a triagem
+u: Triagem at 180.78368502825722: Pessoa vai para o otorrino
+u: FichaDeAtendimento at 180.92524764588012: Nova pessoa pegou ficha no sistema
+
+u: ClinicoGeral at 182.46342336570746: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 182.76240926451575: Pessoa vai para a triagem
+u: Otorrinolaringologista at 183.17659994964777: Pessoa vai para o posto de enfermagem
+u: FichaDeAtendimento at 183.34529230212647: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 184.39212160124055: Pessoa vai para o clinico geral
+u: FichaDeAtendimento at 185.24120846960906: Nova pessoa pegou ficha no sistema
+
+u: ClinicoGeral at 185.35954696519417: Pessoa vai para o posto de enfermagem
+u: Triagem at 185.55273828819912: Pessoa vai para o otorrino
+u: Otorrinolaringologista at 186.5752038307522: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 187.1969055181318: Pessoa vai para a triagem
+u: FichaDeAtendimento at 187.34035676588627: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 188.5347957741066: Pessoa vai para o otorrino
+u: ClinicoGeral at 188.86771871063482: Pessoa vai para o posto de enfermagem
+u: AlaDeMedicacao at 189.33861441008838: Pessoa vai embora do hospital
+u: BalcaoDeAtendimento at 189.3502290349982: Pessoa vai para a triagem
+u: Otorrinolaringologista at 191.39474180960525: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 192.20408171823465: Pessoa vai para a triagem
+u: PostoDeEnfermagem at 192.8207591023293: Pessoa vai embora do hospital
+u: FichaDeAtendimento at 193.16681786084888: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 193.26600097175455: Pessoa vai para o clinico geral
+u: ClinicoGeral at 193.71848634076477: Pessoa vai para o posto de enfermagem
+u: FichaDeAtendimento at 193.94083788766872: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 194.59790429665748: Pessoa vai para a triagem
+u: Triagem at 194.92157129813074: Pessoa vai para o otorrino
+u: ClinicoGeral at 197.02832891021959: Pessoa vai para o posto de enfermagem
+u: Otorrinolaringologista at 197.0753371317881: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 197.70024176999672: Pessoa vai para a triagem
+u: Triagem at 198.61239535761092: Pessoa vai para o clinico geral
+u: BalcaoDeAtendimento at 200.24317666571534: Pessoa vai para a triagem
+u: ClinicoGeral at 202.42667273281646: Pessoa vai para o posto de enfermagem
+u: Triagem at 203.02230819367583: Pessoa vai para o clinico geral
+u: PostoDeEnfermagem at 203.06132943205773: Pessoa vai embora do hospital
+u: BalcaoDeAtendimento at 204.66372613247572: Pessoa vai para a triagem
+u: Triagem at 205.25848886641367: Pessoa vai para o clinico geral
+u: FichaDeAtendimento at 205.9604670656128: Nova pessoa pegou ficha no sistema
+
+u: ClinicoGeral at 206.38625290904272: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 206.46004406403694: Pessoa vai para a triagem
+u: Triagem at 209.33061981021382: Pessoa vai para o clinico geral
+u: ClinicoGeral at 209.97497660633852: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 210.01575659106774: Pessoa vai para a triagem
+u: PostoDeEnfermagem at 211.55462522012334: Pessoa vai embora do hospital
+u: Triagem at 211.62526089072077: Pessoa vai para o clinico geral
+u: BalcaoDeAtendimento at 212.54491054536092: Pessoa vai para a triagem
+u: Triagem at 212.78035112870612: Pessoa vai para o clinico geral
+u: ClinicoGeral at 213.6659542816001: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 215.83719418210316: Pessoa vai para a triagem
+u: FichaDeAtendimento at 216.28110537331338: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 216.76676030759302: Pessoa vai para o clinico geral
+u: Triagem at 217.95810900217143: Pessoa vai para o clinico geral
+u: ClinicoGeral at 218.1091809436938: Pessoa vai para o posto de enfermagem
+u: Triagem at 218.91240732213623: Pessoa vai para o otorrino
+u: ClinicoGeral at 219.86095365186569: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 219.91645850021328: Pessoa vai para a triagem
+u: FichaDeAtendimento at 220.327739008832: Nova pessoa pegou ficha no sistema
+
+u: ClinicoGeral at 221.15123395787262: Pessoa vai para o posto de enfermagem
+u: Otorrinolaringologista at 221.3144716651957: Pessoa vai para o posto de enfermagem
+u: Triagem at 222.97678985704928: Pessoa vai para o cardio
+u: BalcaoDeAtendimento at 223.17284610210436: Pessoa vai para a triagem
+u: PostoDeEnfermagem at 223.22799367681046: Pessoa vai embora do hospital
+u: ClinicoGeral at 224.1766251979848: Pessoa vai para o posto de enfermagem
+u: Triagem at 225.6422702897591: Pessoa vai para o clinico geral
+u: BalcaoDeAtendimento at 225.94686829583563: Pessoa vai para a triagem
+u: ClinicoGeral at 226.32154990255123: Pessoa vai para o posto de enfermagem
+u: Cardiologista at 226.86227599781625: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 227.97202682865708: Pessoa vai para a triagem
+u: Triagem at 230.46685321732002: Pessoa vai para o clinico geral
+u: BalcaoDeAtendimento at 232.8649239273645: Pessoa vai para a triagem
+u: ClinicoGeral at 232.95397590868384: Pessoa vai para o posto de enfermagem
+u: PostoDeEnfermagem at 234.14390089327657: Pessoa vai embora do hospital
+u: Triagem at 234.35571941437507: Pessoa vai para o otorrino
+u: FichaDeAtendimento at 236.79033312236314: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 237.1112409028216: Pessoa vai para o clinico geral
+u: Otorrinolaringologista at 237.18001656236981: Pessoa vai para o posto de enfermagem
+u: FichaDeAtendimento at 239.18294746254463: Nova pessoa pegou ficha no sistema
+
+u: ClinicoGeral at 239.98655235761495: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 240.79227846945895: Pessoa vai para a triagem
+u: FichaDeAtendimento at 241.04482899135115: Nova pessoa pegou ficha no sistema
+
+u: FichaDeAtendimento at 243.04574986293756: Nova pessoa pegou ficha no sistema
+
+u: FichaDeAtendimento at 243.14227506024272: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 244.45079982978658: Pessoa vai para a triagem
+u: Triagem at 244.90177628375113: Pessoa vai para o otorrino
+u: PostoDeEnfermagem at 245.27907698564618: Pessoa vai embora do hospital
+u: BalcaoDeAtendimento at 245.9904028860684: Pessoa vai para a triagem
+u: Triagem at 247.27231910917598: Pessoa vai para o otorrino
+u: FichaDeAtendimento at 248.0409622880205: Nova pessoa pegou ficha no sistema
+
+u: FichaDeAtendimento at 248.60267365631515: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 249.0989300000258: Pessoa vai para a triagem
+u: Otorrinolaringologista at 249.59128217667975: Pessoa vai para o posto de enfermagem
+u: Triagem at 250.22107781288784: Pessoa vai para o clinico geral
+u: Triagem at 251.67934807407016: Pessoa vai para o otorrino
+u: FichaDeAtendimento at 252.8703174255417: Nova pessoa pegou ficha no sistema
+
+u: Otorrinolaringologista at 253.01257397689224: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 253.40861014062594: Pessoa vai para a triagem
+u: PostoDeEnfermagem at 253.961716216023: Pessoa vai embora do hospital
+u: ClinicoGeral at 254.25514495054884: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 256.01930944031216: Pessoa vai para a triagem
+u: Triagem at 257.2686118089913: Pessoa vai para o clinico geral
+u: Otorrinolaringologista at 257.6831978099627: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 258.89429637088523: Pessoa vai para a triagem
+u: FichaDeAtendimento at 258.9494722754857: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 259.3565701144813: Pessoa vai para o clinico geral
+u: ClinicoGeral at 259.6450673578908: Pessoa vai para o posto de enfermagem
+u: FichaDeAtendimento at 259.7927735809089: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 261.76687879442346: Pessoa vai para a triagem
+u: Triagem at 261.9153203921219: Pessoa vai para o cardio
+u: FichaDeAtendimento at 261.97182703023674: Nova pessoa pegou ficha no sistema
+
+u: FichaDeAtendimento at 262.5690749927222: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 263.7462198903323: Pessoa vai para a triagem
+u: ClinicoGeral at 264.1426487462852: Pessoa vai para o posto de enfermagem
+u: Cardiologista at 265.11557281387377: Pessoa vai para o posto de enfermagem
+u: PostoDeEnfermagem at 265.53639615715406: Pessoa vai embora do hospital
+u: Triagem at 265.90993980311487: Pessoa vai para o cardio
+u: FichaDeAtendimento at 266.70017966117126: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 266.81127204997057: Pessoa vai para a triagem
+u: Cardiologista at 267.54949083939465: Pessoa vai para o posto de enfermagem
+u: Triagem at 268.461114521847: Pessoa vai para o clinico geral
+u: ClinicoGeral at 270.494195468488: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 270.7371441470463: Pessoa vai para a triagem
+u: Triagem at 272.48940478680004: Pessoa vai para o clinico geral
+u: AlaDeMedicacao at 273.0611515805338: Pessoa vai embora do hospital
+u: FichaDeAtendimento at 273.1887489492905: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 274.2465320780313: Pessoa vai para a triagem
+u: FichaDeAtendimento at 274.9532516784355: Nova pessoa pegou ficha no sistema
+
+u: FichaDeAtendimento at 275.3641511888339: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 275.5441382158567: Pessoa vai para o clinico geral
+u: ClinicoGeral at 275.95441255861823: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 276.1159350269663: Pessoa vai para a triagem
+u: FichaDeAtendimento at 277.66893119249966: Nova pessoa pegou ficha no sistema
+
+u: ClinicoGeral at 278.50469171405587: Pessoa vai para o posto de enfermagem
+u: Triagem at 278.9120363886091: Pessoa vai para o clinico geral
+u: BalcaoDeAtendimento at 280.6843846728523: Pessoa vai para a triagem
+u: FichaDeAtendimento at 280.8027793494276: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 282.26676382633366: Pessoa vai para o otorrino
+u: ClinicoGeral at 282.9293193831468: Pessoa vai para o posto de enfermagem
+u: PostoDeEnfermagem at 283.0753430959107: Pessoa vai embora do hospital
+u: BalcaoDeAtendimento at 284.14089782731725: Pessoa vai para a triagem
+u: FichaDeAtendimento at 284.4890858206731: Nova pessoa pegou ficha no sistema
+
+u: Otorrinolaringologista at 285.6648894856503: Pessoa vai para o posto de enfermagem
+u: Triagem at 285.7174934123685: Pessoa vai para o clinico geral
+u: FichaDeAtendimento at 286.3663751502956: Nova pessoa pegou ficha no sistema
+
+u: BalcaoDeAtendimento at 288.1548656127165: Pessoa vai para a triagem
+u: FichaDeAtendimento at 288.57349747649334: Nova pessoa pegou ficha no sistema
+
+u: ClinicoGeral at 288.61495279750625: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 289.39372534746: Pessoa vai para a triagem
+u: Triagem at 289.54621008129624: Pessoa vai para o clinico geral
+u: PostoDeEnfermagem at 291.40026205740435: Pessoa vai embora do hospital
+u: Triagem at 292.2580481364241: Pessoa vai para o otorrino
+u: BalcaoDeAtendimento at 292.38693415176033: Pessoa vai para a triagem
+u: FichaDeAtendimento at 293.3249300171716: Nova pessoa pegou ficha no sistema
+
+u: ClinicoGeral at 293.6829211697982: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 295.0457646113369: Pessoa vai para a triagem
+u: Triagem at 295.7667418434667: Pessoa vai para o otorrino
+u: Otorrinolaringologista at 295.9167759395534: Pessoa vai para o posto de enfermagem
+u: BalcaoDeAtendimento at 296.7164945405504: Pessoa vai para a triagem
+u: FichaDeAtendimento at 296.7429972879294: Nova pessoa pegou ficha no sistema
+
+u: Triagem at 297.5757853949805: Pessoa vai para o clinico geral
+u: BalcaoDeAtendimento at 298.2552460616001: Pessoa vai para a triagem
+u: Otorrinolaringologista at 299.1974699951423: Pessoa vai para o posto de enfermagem
+u: ClinicoGeral at 299.4710391757394: Pessoa vai para o posto de enfermagem
+u: Triagem at 300.42148513114927: Pessoa vai para o clinico geral
+u: BalcaoDeAtendimento at 300.6532129193373: Pessoa vai para a triagem
+u: BalcaoDeAtendimento at 302.58685766569806: Pessoa vai para a triagem
+u: ClinicoGeral at 303.6276139790705: Pessoa vai para o posto de enfermagem
+u: Triagem at 303.7105174434312: Pessoa vai para o cardio
+u: Cardiologista at 306.6996265992703: Pessoa vai para o posto de enfermagem
+u: AlaDeMedicacao at 307.45057326312843: Pessoa vai embora do hospital
+u: Triagem at 307.8615456653926: Pessoa vai para o clinico geral
+u: ClinicoGeral at 310.7163103655544: Pessoa vai para o posto de enfermagem
+u: Triagem at 311.62316779055743: Pessoa vai para o clinico geral
+u: Triagem at 313.15688924702073: Pessoa vai para o cardio
+u: PostoDeEnfermagem at 315.6427664495423: Pessoa vai embora do hospital
+u: ClinicoGeral at 315.7598762855804: Pessoa vai para o posto de enfermagem
+u: Cardiologista at 315.9218905749419: Pessoa vai para o posto de enfermagem
+u: PostoDeEnfermagem at 323.54697087554706: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 342.088093724618: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 349.3633924993014: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 354.5608735616067: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 375.66806595261204: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 382.4709280900615: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 389.97539174572796: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 396.7985558533906: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 402.2664554093072: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 421.7230051770958: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 422.6977179254077: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 434.60739835749735: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 453.32916264683183: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 457.6102814988672: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 464.96602780121617: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 467.7636116508427: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 478.58272286143966: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 485.7332898187577: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 495.7958666866287: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 508.58595043364954: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 516.451334242472: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 530.1421466848772: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 539.9362873379916: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 547.325658552021: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 558.6390078109537: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 571.4026527739788: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 582.7880445857317: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 591.3925932628154: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 607.408494190149: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 608.659841325258: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 624.2627167236767: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 630.3168770655525: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 634.1421108176684: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 647.9197006404034: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 650.9411102799396: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 660.3755950647266: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 670.8519781070355: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 684.3600933445131: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 687.169212520874: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 701.2572523159387: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 715.8137182677345: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 724.8274437621762: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 731.4984220887894: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 734.8948011221978: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 748.2820923144737: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 752.6658962244376: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 764.9271755918392: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 778.223742326339: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 785.178229235081: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 789.9347092185624: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 804.0235050708786: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 815.5773484138563: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 823.6323426991538: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 833.9055975274035: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 843.515714684512: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 850.2629112185407: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 870.8881532759789: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 877.970504244724: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 882.890659161258: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 905.473935322276: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 906.8367813217376: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 927.2057446109436: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 941.7891225213239: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 948.7974498741901: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 950.7242021042741: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 951.2176820247836: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 960.0674247679294: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 967.5058411993116: Pessoa vai embora do hospital
+u: PostoDeEnfermagem at 976.4940701643523: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 988.4450204285788: Pessoa vai embora do hospital
+u: BalcaoDeAtendimento at 988.4450204285788: Pessoa vai para a triagem
+u: Triagem at 988.4450204285788: Pessoa vai para o clinico geral
+u: ClinicoGeral at 988.4450204285788: Pessoa vai para o posto de enfermagem
+u: Otorrinolaringologista at 988.4450204285788: Pessoa vai para o posto de enfermagem
+u: Cardiologista at 988.4450204285788: Pessoa vai para o posto de enfermagem
+u: PostoDeEnfermagem at 988.4450204285788: Pessoa vai embora do hospital
+u: AlaDeMedicacao at 988.4450204285788: Pessoa vai embora do hospital
